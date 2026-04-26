@@ -1,1 +1,4 @@
-echo "Updated today" >> README.md
+Updated today
+# My Boutique
+
+Updated today 🚀
